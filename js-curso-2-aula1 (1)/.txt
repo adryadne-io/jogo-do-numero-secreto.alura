@@ -1,0 +1,18 @@
+GIT LOG
+git log
+commit 409f4580be3b773290a06f0ca316607929ab7fd4 (HEAD -> main)
+Author: adryadnevieira <ra25324652-5@aluno.unicesumar.edu.br> 
+Date:   Wed Jan 21 18:28:14 2026 -0400
+
+    alterei dificuldade maiis uma vez
+
+commit e0d38c52bb53bbb62df3de2138c01699e3d96463
+Author: adryadnevieira <ra25324652-5@aluno.unicesumar.edu.br> 
+Date:   Wed Jan 21 18:09:26 2026 -0400
+
+    alterando dificuldade para 50
+
+commit b46b17a33b67efd2005ce634af5835b14c2f670e
+Author: adryadnevieira <ra25324652-5@aluno.unicesumar.edu.br> 
+Date:   Wed Jan 21 15:48:48 2026 -0400
+:
